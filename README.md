@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lungis4ni
-- 👀 I’m interested in Front End Development
+- 👀 I am a Front End Developer
 - 🌱 I’m currently polishing my ReactJS Skills
 - 💞️ I’m looking to collaborate on projects that will improve my JavaScript Skills
 - 📫 How to reach me: E-mail: lungi.fed@gmail.com
